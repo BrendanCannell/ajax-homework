@@ -10,4 +10,4 @@ pom.xml
 .lein-plugins/
 .repl
 .nrepl-port
-.rebel_*
+.rebel_readline_history
